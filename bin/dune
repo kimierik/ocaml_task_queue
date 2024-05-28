@@ -1,0 +1,4 @@
+(executable
+ (public_name task_pool_demo)
+ (name main)
+ (libraries threads unix domainslib ))
